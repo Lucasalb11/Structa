@@ -4,7 +4,7 @@
 
 **On-chain fundraising for Brazilian real-estate development, settled in USDC on Solana.**
 
-[Live app](https://structa.vercel.app) · [Program on Solana devnet](https://explorer.solana.com/address/2vEvLqNyMKPx7B6nz1yaKJgNBMV7DeXv17dTYR8T5SSf?cluster=devnet) · Built at Colosseum Frontier
+[Live app](https://structa-frontend.vercel.app) · [Program on Solana devnet](https://explorer.solana.com/address/2vEvLqNyMKPx7B6nz1yaKJgNBMV7DeXv17dTYR8T5SSf?cluster=devnet) · Built at Colosseum Frontier
 
 </div>
 
@@ -104,7 +104,7 @@ What the program defends against, and the trust assumptions that remain.
 ## Status
 
 - Program deployed on **Solana devnet** — [`2vEvLqNy…T5SSf`](https://explorer.solana.com/address/2vEvLqNyMKPx7B6nz1yaKJgNBMV7DeXv17dTYR8T5SSf?cluster=devnet)
-- Full investor flow live on devnet at [structa.vercel.app](https://structa.vercel.app): wallet login, cota purchase, portfolio, yield history
+- Full investor flow live on devnet at [structa-frontend.vercel.app](https://structa-frontend.vercel.app): wallet login, cota purchase, portfolio, yield history
 - Integration test suite covers every instruction: authorisation, sale state, supply limits, arithmetic edges, multi-holder yield and the burn/refund cycle
 - Next: multisig authority, pro-rata refunds, and the issuer-side legal wrapper for a first pilot
 
